@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "425304888457",
+    "firebase_url": "https://zzappa-af91c.firebaseio.com",
+    "project_id": "zzappa-af91c",
+    "storage_bucket": "zzappa-af91c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425304888457:android:361f77aaa3d192f9",
+        "android_client_info": {
+          "package_name": "com.example.vadim.actionzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425304888457-56m3e6h10720rlr2e99d0gkn21o19mtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF1lkatuwzhUzb2Qlf6wvBPleiO_DgYtw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
